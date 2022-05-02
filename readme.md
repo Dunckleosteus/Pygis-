@@ -16,4 +16,7 @@ sauf si ils sont séparé de plus de 20m.
 # Installer les fichiers pythons: 
 git clone https://github.com/Dunckleosteus/Pygis-.git
 # Dans qgis
+![image](https://user-images.githubusercontent.com/89072004/166252464-5e6857ec-92d4-43f1-ba31-fd6215ca4cb8.png)
+![image](https://user-images.githubusercontent.com/89072004/166252613-079a285e-2e02-4249-b38f-4d40f611d124.png)
+
 Plugins>python console>editor
