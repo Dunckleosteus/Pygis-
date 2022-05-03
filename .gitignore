@@ -1,1 +1,5 @@
-/sides
+sides/
+*.cpg
+*.prj
+*.shp
+*.shx
