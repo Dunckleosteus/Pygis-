@@ -1,4 +1,5 @@
 *.cpg
+*.dbf
 *.prj
 *.shp
 *.shx
