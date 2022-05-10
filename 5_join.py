@@ -1,7 +1,7 @@
 # join incr_xy_intersect_g with incr_xy_intersect_d on index
-ing = r'C:\Users\g.husband\sanef_pygis\incr_xy_intersect_g.shp'
-ind = r'C:\Users\g.husband\sanef_pygis\incr_xy_intersect_d.shp'
-outfn = r'C:\Users\g.husband\sanef_pygis\join.shp'
+ing = r'C:\Users\g.husband\Desktop\pygis\sides\A40_incr_xy_intersectG.shp'
+ind = r'C:\Users\g.husband\Desktop\pygis\sides\A40_incr_xy_intersectD.shp'
+outfn = r'C:\Users\g.husband\Desktop\pygis\sides\join.shp'
 processing.run("native:joinattributestable", {'INPUT': ing,
 'FIELD': 'AUTO',
 'INPUT_2':ind,

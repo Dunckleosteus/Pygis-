@@ -1,3 +1,6 @@
+import os 
+#   PASTE THE LOCATION OF THE WORKING DIRECTORY HERE !!!!
+dir = r"C:\Users\g.husband\Desktop\pygis"
 # extend rotated lines 
 infn = r'C:\Users\g.husband\sanef_pygis\rotated.shp'
 outfn = r'C:\Users\g.husband\sanef_pygis\extended.shp'

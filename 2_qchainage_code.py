@@ -1,11 +1,16 @@
+import os 
+#   PASTE THE LOCATION OF THE WORKING DIRECTORY HERE !!!!
+dir = r"C:\Users\g.husband\Desktop\pygis"
 # selects diss_d 
 # creating points from path 
 # explode lines 
 # rotate exploded
 
 # select diss_d and press run on the script
+
 infn = r'C:\Users\g.husband\sanef_pygis\diss_d.shp'
 outfn = r'C:\Users\g.husband\sanef_pygis\dots.shp'
+
 layer = iface.activeLayer()
 processing.run("native:pointsalonglines", {'INPUT': infn,
 'DISTANCE': 40,

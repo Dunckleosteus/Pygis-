@@ -1,3 +1,6 @@
+import os 
+#   PASTE THE LOCATION OF THE WORKING DIRECTORY HERE !!!!
+dir = r"C:\Users\g.husband\Desktop\pygis"
 # intersection d
 over = r'C:\Users\g.husband\sanef_pygis\extended.shp'
 infn = r'C:\Users\g.husband\sanef_pygis\diss_d.shp'
